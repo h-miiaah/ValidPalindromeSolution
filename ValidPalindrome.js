@@ -35,6 +35,7 @@
   /*
 
   - First check if the string is empty. If it is, we return true.
+  - Then convert the string to lowercase and iterate over it.
   
 
   */

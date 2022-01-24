@@ -7,6 +7,9 @@
 
     s = s.toLowerCase();
     let i = 0, j = s.length - 1;
-    
+
+    while (i < j) {
+        
+      }
 
   };

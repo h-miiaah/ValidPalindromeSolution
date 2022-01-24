@@ -9,7 +9,9 @@
     let i = 0, j = s.length - 1;
 
     while (i < j) {
-        
+        if ((s[i] < 'a' || s[i] > 'z') && (s[i] < '0' || s[i] > '9')) {
+            
+          }
       }
 
   };

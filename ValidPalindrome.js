@@ -34,6 +34,7 @@
 
   /*
 
+  - First check if the string is empty. If it is, we return true.
   
 
   */

@@ -39,6 +39,6 @@
   - Check if the character is a letter or a number. If it is not, we continue to the next character.
   - If the character is a letter or a number, we compare it to the character at the other end of the string.
   - If they are not the same, we return false.
-  
+  - If we make it to the end of the string, we return true.
 
   */
